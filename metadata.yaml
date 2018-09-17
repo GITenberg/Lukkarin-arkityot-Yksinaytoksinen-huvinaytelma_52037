@@ -1,5 +1,8 @@
 _repo: Lukkarin-arkityot-Yksinaytoksinen-huvinaytelma_52037
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Niemi, Vihtori
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46640
     wikipedia: https://fi.wikipedia.org/wiki/Vihtori_Niemi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52037#Lukkarin-arkityot-Yksinaytoksinen-huvinaytelma
 gutenberg_issued: '2016-05-10'
 gutenberg_type: Text
 identifiers:
